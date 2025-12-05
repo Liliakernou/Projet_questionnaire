@@ -1,0 +1,5 @@
+TITLE: Exemple
+QTYPE: TEXTE
+INTITULE: Exemple
+TEXTE: Ceci est un exemple
+REPONSE: ok
